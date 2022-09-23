@@ -2,6 +2,7 @@
     "cSpell.words": [
         "autoflush",
         "fastapi",
+        "passlib",
         "psycopg",
         "pydantic",
         "sessionmaker",
